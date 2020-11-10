@@ -146,6 +146,10 @@ H4sIAAAAAAAAA+1ZbW/bNhDu1+hX3OygSbBZL7ZsBelSIGuytkBeCrstMAyDIUt0LJgWVZKKE3T5
 ### Distance between two points
 
 
+# Neat connections
+### Bifrucation diagram
+### Mandelbrot Set
+### Julia Set
 
 
 
